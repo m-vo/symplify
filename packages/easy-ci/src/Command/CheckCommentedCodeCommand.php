@@ -15,7 +15,7 @@ use Symplify\PackageBuilder\Console\ShellCode;
 final class CheckCommentedCodeCommand extends AbstractSymplifyCommand
 {
     /**
-     * @var string
+     * @var int
      */
     private const DEFAULT_LINE_LIMIT = 5;
 
